@@ -55,7 +55,9 @@ webpage. -->
 <a href="tel:9876543210">Call</a>
 <!-- <a> tag for email -->
 <a href="mailto:test@gmail.com">Email</a>
+
 <br>
+
 <!-- Text Formatting Tags -->
 <!-- <i> tag for italic text -->
 <i>This is italic text.</i>
@@ -75,7 +77,9 @@ webpage. -->
 <small>This is small text.</small>
 <!-- <big> tag for big text -->
 <big>This is big text.</big>
+
 <br>
+
 <!-- Image Tag -->
 <img src="" alt="Nature" width="300">
 <!-- Ordered List -->
@@ -102,7 +106,8 @@ webpage. -->
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/LRNdGU0UlG4?si=HGDF4MGrdYHYJe8n"
 title="YouTube video player" frameborder="0" allow="accelerometer; 
-autoplay; clipboard-write; encrypted-media; gyroscope; picture-inpicture; web-share" referrerpolicy="strict-origin-when-cross-origin"
+autoplay; clipboard-write; encrypted-media; gyroscope; picture-inpicture; web-share" referrerpolicy="strict-origin-when-cross-
+origin"
 allowfullscreen></iframe>
 <!-- Textarea Tag -->
 <textarea rows="4" cols="5">
@@ -154,7 +159,8 @@ phone number">
 <input type="date" id="birthdate" name="birthdate">
 <br>
 <!-- Time Input -->
-<label for="appointment">Appointment Time:</label>
+<label for="appointment">Appointment Time:
+</label>
 <input type="time" id="appointment" name="appointment">
 <br>
 <!-- Datetime Local Input -->
